@@ -1,5 +1,5 @@
 {
-    "name": "friday",
+    "name": "crazyfriday",
     "version": "1.0.0",
     "description": "🕺🍻 Hoje é sexta feira dia de quebrar sistema do amiguinho e subir pra produção",
     "main": "index.js",
@@ -11,7 +11,7 @@
         "url": "https://github.com/JoaoVictorNascimento/friday.git"
     },
     "keywords": [
-        "friday"
+        "crazyfriday"
     ],
     "author": {
         "name": "João Victor Nascimento",
@@ -19,7 +19,7 @@
     },
     "license": "MIT",
     "bin": {
-        "friday": "./index.js"
+        "crazyfriday": "./index.js"
     },
     "bugs": {
         "url": "https://github.com/JoaoVictorNascimento/friday/issues"

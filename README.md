@@ -11,23 +11,23 @@
 ## Installing
 Install globally:
 
-    npm install -g friday
+    npm install -g crazyfriday
 
 ## Running
 Run command:
 
-    friday
+    crazyfriday
 
 Or import in NodeJS script:
 
-    import friday from 'friday';
+    import crazyfriday from 'crazyfriday';
 
-    friday();
+    crazyfriday();
     
 ## Running with [npx](https://www.npmjs.com/package/npx)
 Run command:
 
-    npx friday
+    npx crazyfriday
 
 ## See also
 
